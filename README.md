@@ -33,6 +33,9 @@ Open to research collaborations!
 <a href="https://www.kaggle.com/abyosohapsoro">
     <img src="https://img.shields.io/badge/Kaggle-035A7D?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle">
 </a>
+<a href="https://www.datacamp.com/profile/abyosohapsoro">
+    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp">
+</a>
 <a href="https://www.hackerrank.com/XybaX">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank">
 </a>
@@ -84,3 +87,9 @@ Open to research collaborations!
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket)
 ![GitLab](https://img.shields.io/badge/GitLab-554387?style=for-the-badge&logo=gitlab)
+
+-----
+
+<a href="https://myanimelist.net/profile/XybaX">
+    <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Elaina_With_Effective_Python.png">
+</a>
