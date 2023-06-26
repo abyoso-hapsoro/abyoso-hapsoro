@@ -17,32 +17,36 @@ Open to research collaborations!
 </p>
 </details>
 
-## Feel free to connect~
-<a href="mailto:abyoso.hapsoro@sci.ui.ac.id">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail">
-</a>
-<a href="https://www.linkedin.com/in/abyoso-hapsoro/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
-</a>
-<a href="https://discord.com/users/xybafenix">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord">
-</a>
-<a href="https://slack.com/app_redirect?channel=U043M212PGQ">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF" alt="Slack">
-</a>
-<br>
-<a href="https://www.kaggle.com/abyosohapsoro">
-    <img src="https://img.shields.io/badge/Kaggle-035A7D?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle">
-</a>
-<a href="https://www.coursera.org/user/a2cf7f0383d562298e6d7f376818be3c">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=FFFFFF" alt="Coursera">
-</a>
-<a href="https://www.datacamp.com/profile/abyosohapsoro">
-    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp">
-</a>
-<a href="https://www.hackerrank.com/XybaX">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank">
-</a>
+<h2 align="center">
+    Feel free to connect~
+</h2>
+<p align="center">
+    <a href="mailto:abyoso.hapsoro@sci.ui.ac.id">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/abyoso-hapsoro/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
+    </a>
+    <a href="https://discord.com/users/xybafenix">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord">
+    </a>
+    <a href="https://slack.com/app_redirect?channel=U043M212PGQ">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF" alt="Slack">
+    </a>
+    <br>
+    <a href="https://www.kaggle.com/abyosohapsoro">
+        <img src="https://img.shields.io/badge/Kaggle-035A7D?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle">
+    </a>
+    <a href="https://www.coursera.org/user/a2cf7f0383d562298e6d7f376818be3c">
+        <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=FFFFFF" alt="Coursera">
+    </a>
+    <a href="https://www.datacamp.com/profile/abyosohapsoro">
+        <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp">
+    </a>
+    <a href="https://www.hackerrank.com/XybaX">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank">
+    </a>
+</p>
 
 -----
 
