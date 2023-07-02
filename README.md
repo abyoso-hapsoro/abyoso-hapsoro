@@ -11,7 +11,7 @@ Lifelong Learner and Budding Researcher focusing in Machine Learning and Artific
 
 My Current Activities:
 - 📚 Preparing to pursue Masters in Machine Learning and Artificial Intelligence on 2024 (Q3/Q4)
-- 🏢 Working as a Data Engineer at [EdgeProp SG](https://www.linkedin.com/company/edge-prop-singapore/)
+- 🏢 Working as a Data Engineer at [EdgeProp Singapore](https://www.linkedin.com/company/edge-prop-singapore/)
 - 🌐 Collaborating to mitigate Air Pollution at [FruitPunch AI](https://www.linkedin.com/company/fruitpunchai/)
 - 💚 Participating in [Climate Change AI Summer School 2023](https://www.climatechange.ai/events/summer_school)
 - 🗄️ Building my portfolio with years of old projects at [past-works](https://github.com/abyoso-hapsoro/past-works/) and github.io (🔜)
@@ -33,7 +33,7 @@ My Current Activities:
     <a href="mailto:abyoso.hapsoro@sci.ui.ac.id">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/abyoso-hapsoro/">
+    <a href="https://www.linkedin.com/in/abyoso-hapsoro">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
     </a>
     <a href="https://discord.com/users/xybafenix">
@@ -48,6 +48,9 @@ My Current Activities:
     </a>
     <a href="https://www.coursera.org/user/a2cf7f0383d562298e6d7f376818be3c">
         <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=FFFFFF" alt="Coursera">
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/c474f52d-f9e8-49d3-a7a5-d467c5711c1f">
+        <img src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=qwiklabs&logoColor=000FFF" alt="Qwiklabs">
     </a>
     <a href="https://www.datacamp.com/profile/abyosohapsoro">
         <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp">
