@@ -4,12 +4,21 @@
 <summary>
     <img src="https://img.shields.io/badge/About Me-2CB037?style=plastic&logo=about.me&logoColor=FFFFFF" alt="About Me">
 </summary>
-Hi, Abyoso here. Also known as Xyba or XybaFenix.
+Hi, Abyoso here. You may also know me as Xyba or XybaFenix. よろしく~
 <br><br>
 Lifelong Learner and Budding Researcher focusing in Machine Learning and Artificial Intelligence. Highly interested in Environment and Astronomy Research. Also interested in Animal Welfare, Healthcare, and Finance.
 <br><br>
-Open to research collaborations!
+
+My Current Activities:
+- 📚 Preparing to pursue Masters in Machine Learning and Artificial Intelligence on 2024 (Q3/Q4)
+- 🏢 Working as a Data Engineer at [EdgeProp SG](https://www.linkedin.com/company/edge-prop-singapore/)
+- 🌐 Collaborating to mitigate Air Pollution at [FruitPunch AI](https://www.linkedin.com/company/fruitpunchai/)
+- 💚 Participating in [Climate Change AI Summer School 2023](https://www.climatechange.ai/events/summer_school)
+- 🗄️ Building my portfolio with years of old projects at [past-works](https://github.com/abyoso-hapsoro/past-works/) and github.io (🔜)
+
 <br>
+🔬 Open to research collaborations!
+
 <p align="center">
   <a href="https://github.com/abyoso-hapsoro">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abyoso-hapsoro&hide_border=true&card_width=338&theme=transparent"/>
