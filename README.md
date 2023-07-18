@@ -30,7 +30,7 @@ My Current Activities:
     Feel free to connect~
 </h2>
 <p align="center">
-    <a href="mailto:abyoso.hapsoro@sci.ui.ac.id">
+    <a href="mailto:abyoso.hapsoro@alumni.ui.ac.id">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/abyoso-hapsoro">
