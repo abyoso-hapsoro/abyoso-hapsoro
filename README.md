@@ -11,9 +11,7 @@ Lifelong Learner and Budding Researcher focusing in Machine Learning and Artific
 
 My Current Activities:
 - 📚 Preparing to pursue Masters in Machine Learning and Artificial Intelligence on 2024 (Q3/Q4)
-- 🏢 Working as a Data Engineer at [EdgeProp Singapore](https://www.linkedin.com/company/edge-prop-singapore/)
-- 🌐 Collaborating to mitigate Air Pollution at [FruitPunch AI](https://www.linkedin.com/company/fruitpunchai/)
-- 💚 Participating in [Climate Change AI Summer School 2023](https://www.climatechange.ai/events/summer_school)
+- 🏢 Working as a Data Science Engineer at [KiteSense](https://www.linkedin.com/company/kitesense/)
 - 🗄️ Building my portfolio with years of old projects at [past-works](https://github.com/abyoso-hapsoro/past-works/) and github.io (🔜)
 
 <br>
