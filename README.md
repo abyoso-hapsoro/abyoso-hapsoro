@@ -6,16 +6,16 @@
 </summary>
 Hi, Abyoso here. You may also know me as Xyba or XybaFenix. よろしく~
 <br><br>
-Lifelong Learner and Budding Researcher focusing in Machine Learning and Artificial Intelligence. Highly interested in Environment and Astronomy Research. Also interested in Animal Welfare, Healthcare, and Finance.
+Lifelong Learner and Budding Researcher with focus in Machine Learning and Artificial Intelligence.
 <br><br>
 
 My Current Activities:
-- 📚 Preparing to pursue Masters in Machine Learning and Artificial Intelligence on 2024 (Q3/Q4)
-- 🏢 Working as a Data Science Engineer at [KiteSense](https://www.linkedin.com/company/kitesense/)
-- 🗄️ Building my portfolio with years of old projects at [past-works](https://github.com/abyoso-hapsoro/past-works/) and github.io (🔜)
+- 📚 Preparing to pursue Masters majoring Machine Learning and/or Artificial Intelligence in the near future
+- 🏢 Available for Hire: Looking for Machine Learning, Artificial Intelligence, Data Science roles
+- 🗄️ Building my portfolio with years of old projects at [github.io](https://abyoso-hapsoro.github.io/) and [past-works](https://github.com/abyoso-hapsoro/past-works/)
 
 <br>
-🔬 Open to research collaborations!
+🔬 Available for Research Collaborations
 
 <p align="center">
   <a href="https://github.com/abyoso-hapsoro">
@@ -25,7 +25,7 @@ My Current Activities:
 </details>
 
 <h2 align="center">
-    Feel free to connect~
+    My Accounts
 </h2>
 <p align="center">
     <a href="mailto:abyoso.hapsoro@alumni.ui.ac.id">
@@ -64,8 +64,8 @@ My Current Activities:
 ![Python](https://img.shields.io/badge/Python-35B9AB?style=for-the-badge&logo=data:image/png;base64,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)
 ![R](https://img.shields.io/badge/R-BCBEC1?style=for-the-badge&logo=r&logoColor=246ABF)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
 
 ### ML/AI Engineering
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)
@@ -76,12 +76,13 @@ My Current Activities:
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite-95D8F5?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
 ### Cloud
 ![GCP](https://img.shields.io/badge/GCP-3373EF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAGYktHRAAAAAAAAPlDu38AAAAHdElNRQfnBhQXIzVm3bJFAAAEHklEQVRIx63WWahVVRgH8N/a55zrcDW96VVTyswKEqOiJCqCstuo2UMPZQP2kBRFAxE0XJoewiKaRIoeookmo7AJKtMSNSobpCBJAkMwbpZcvXqHPPvs3cM+J7fbcy5X6A/fw17fWt9/fePaQQvsvGBe/nMiFuAqzEMnUvyF7/A2PsKexoEpazY1tRtGQHYu7sd5GN3ifoP4EsuwfjjSaBiygBuwEpcMQwZjcClWRmmypHPNpvDjpDPNf3Tf8IQFz67DM5hmhAjSab2jJj370G2rrrvolxVwCGnU4uzZeAwTDoNMNapYNfPaCRunzl82f3H/Wc32/UeY8+4IPIDpLWzH2FWXOK9YM32h1TMWSUJpRpA+gPFFL5t5uBAXNFmv4gNcg/MxH9fiwyCNf5x0pndnLVGN2gQpdOHylh7WMRbXS0JFmivgJOxVC91pHC2Wegc/4yes7BzqWby9/bgH35h9U//utiMbZFDB9XWbudCjurqsd9lp0mo0Lxobf1qaPtBRmblXNGG/NAlUo82Vk3pvaVs09E38RSmRBNWtE+x79zjfdp5r4cNPRue9N/hIlCbdDm61XlyMTbC2e5xQ/bxMytBX09R2jbqzMrvv6coJe4TRtfzFUknYhTfwOP5oKBZ91aMaVSShNAUf44xC1O7C0weHNDD6nJ7T2xdsX9o2t1doS0hCXgIm43a8hJkNA+ue65KEEuyUTZwibsTpxRzOwHKldM6BFLTERXiiUYEDPZvzuvXoK+yfg+V1DpE0gVtlvTdSHN8gbOSmjh34u8n+s3FrmhIJ0VxZqY8UO3GvXB5zGKpLM1wTgpMjXIFjCsoUa3AH7pO1QMPgQ/ishdG9sgn1GWoF3TG4oixr0OKr8T6W5sLzAV7HOrzY2FTpiouE/+C1+v4VsnncQEBXqH5e7sHUnKJPNm3WH3A2kJX7741LNCErDupT8Smm5Nb+jNBROLcdWw6+GLKHNvM4K7RDkCse+K0ueRwZOXS8VdWHcjmKc56kdaFyYXPCAmkN+wvqUMY+2S9EA9NlPbM7Tso6O+Km4WuFXFg7cXRB3V+W5eXU3OJULCkfG9+74IfLkpnPjzkwVuqeRvFkY3fcL4obvzZNcTVmFdZ+L2NDgVDglg9/nZVsq41/pz3E/S0MtmIaJfvhutuh6dpYxirZu9YBkdSWuKP95YET7xkbajfJSr0JQivStrqtYqvtxqoyNsoa9apI6s9kjGf759pWG68knTgM2eFiNTZEsunxVGDHQFr2wsBJvq9OVhrBFD8M/IGnMBjBrmT0t6Tdbw7O3vPJ0NGi/5esD934mnpS/05GKZVqr74yeOLNsbD1fyTbipvxSmMhqnTFdtTaPdN3SnpUNPBW4ErZHNwma9z4MGV//ewKma031Ytrbfc4/wIRTWDDNJm2FAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wNi0yMFQyMzozNTo0NiswMDowMLjxboAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDYtMjBUMjM6MzU6NDYrMDA6MDDJrNY8AAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTA2LTIwVDIzOjM1OjUzKzAwOjAwACvY2gAAAABJRU5ErkJggg==)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
 
 ### Math Tools
@@ -98,7 +99,7 @@ My Current Activities:
 
 ### IDEs
 ![Colab](https://img.shields.io/badge/Colab-525252?style=for-the-badge&logo=googlecolab)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-ABCDEF?style=for-the-badge&logo=data:image/png;base64,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)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm)
 ![Anaconda](https://img.shields.io/badge/Anaconda-880066?style=for-the-badge&logo=anaconda)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=FFFFFF)
@@ -113,5 +114,5 @@ My Current Activities:
 -----
 
 <a href="https://myanimelist.net/profile/XybaX">
-    <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Elaina_With_Effective_Python.png">
+    <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Elaina_With_Effective_Python.png">
 </a>
