@@ -12,8 +12,9 @@ Lifelong Learner and Budding Researcher with focus in Machine Learning and Artif
 My Current Activities:
 - 📚 Preparing to pursue Masters majoring Machine Learning and/or Artificial Intelligence in the near future
 - 🏢 Working as a Research and Development Engineer at [Wako GmbH](https://www.linkedin.com/company/wako.3d-design&produktionsagentur/)
+- 🏫 Teaching Machine Learning at [Coding Camp](https://www.linkedin.com/company/coding-camp-powered-by-dbs-foundation/)
 - 🏫 Teaching Mathematics at [STIKES Mitra Keluarga](https://stikesmitrakeluarga.ac.id/)
-- 🗄️ Building my portfolio with years of old projects at [github.io](https://abyoso-hapsoro.github.io/) and [past-works](https://github.com/abyoso-hapsoro/past-works/)
+- 🗄️ Casually building my portfolio with years of old projects at [github.io](https://abyoso-hapsoro.github.io/) and [past-works](https://github.com/abyoso-hapsoro/past-works/)
 
 <br>
 🔬 Available for Research Collaborations
@@ -37,9 +38,6 @@ My Current Activities:
     </a>
     <a href="https://discord.com/users/xybafenix">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord">
-    </a>
-    <a href="https://slack.com/app_redirect?channel=U043M212PGQ">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF" alt="Slack">
     </a>
     <br>
     <a href="https://www.kaggle.com/abyosohapsoro">
