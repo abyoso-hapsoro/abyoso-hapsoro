@@ -116,7 +116,7 @@ My Current Activities:
 <a href="https://myanimelist.net/profile/XybaX">
     <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Elaina_With_Effective_Python.png">
 </a>
-<p style='text-align:right'>
+<p align="right">
     Original art made by <a href="https://danbooru.donmai.us/posts/3568505?q=azuuru">Azuuru</a><br>
     Edited by <a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/commit/8b9a2370b072eb715fcdf062bca0de925ed65fdd">Wybxc</a>
 </p>
