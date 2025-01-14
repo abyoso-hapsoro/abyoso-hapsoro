@@ -5,16 +5,16 @@
     <img src="https://img.shields.io/badge/About Me-2CB037?style=plastic&logo=about.me&logoColor=FFFFFF" alt="About Me">
 </summary>
 Hi, Abyoso here. You may also know me as Xyba or XybaFenix. よろしく~
-<br><br>
+<br>
 Lifelong Learner and Budding Researcher with focus in Machine Learning and Artificial Intelligence.
 <br><br>
 
-My Current Activities (as of 3 Jan 2025):
+My Current Activities (as of 14 Jan 2025):
 - 📚 Pursuing Masters majoring Financial Engineering at [WorldQuant University](https://www.wqu.edu/)
 - 🏢 Working as a Research and Development Engineer at [Wako GmbH](https://www.linkedin.com/company/wako.3d-design&produktionsagentur/)
 - 🏫 Teaching Mathematics at [STIKES Mitra Keluarga](https://stikesmitrakeluarga.ac.id/)
 - 🏫 Teaching Machine Learning at [Coding Camp](https://www.linkedin.com/company/coding-camp-powered-by-dbs-foundation/)
-- 🗄️ Casually building my portfolio with years of old projects at [github.io](https://abyoso-hapsoro.github.io/) and [past-works](https://github.com/abyoso-hapsoro/past-works/)
+- 🗄️ Casually building my portfolio at [github.io](https://abyoso-hapsoro.github.io/) and compiling years of old projects at [past-works](https://github.com/abyoso-hapsoro/past-works/)
 
 <br>
 🔬 Available for Research Collaborations
