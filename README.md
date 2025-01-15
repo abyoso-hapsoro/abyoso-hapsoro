@@ -9,7 +9,7 @@ Hi, Abyoso here. You may also know me as Xyba or XybaFenix. よろしく~
 Lifelong Learner and Budding Researcher with focus in Machine Learning and Artificial Intelligence.
 <br><br>
 
-My Current Activities (as of 14 Jan 2025):
+My Current Activities (as of 16 Jan 2025):
 - 📚 Pursuing Masters majoring Financial Engineering at [WorldQuant University](https://www.wqu.edu/)
 - 🏢 Working as a Research and Development Engineer at [Wako GmbH](https://www.linkedin.com/company/wako.3d-design&produktionsagentur/)
 - 🏫 Teaching Mathematics at [STIKES Mitra Keluarga](https://stikesmitrakeluarga.ac.id/)
@@ -21,7 +21,7 @@ My Current Activities (as of 14 Jan 2025):
 
 <p align="center">
   <a href="https://github.com/abyoso-hapsoro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abyoso-hapsoro&hide_border=true&card_width=338&theme=transparent"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abyoso-hapsoro&theme=transparent&hide_border=true&card_width=338"/>
   </a>
 </p>
 </details>
